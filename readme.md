@@ -46,10 +46,7 @@ This is my personal portfolio website designed to showcase my skills, education,
 The website is deployed and accessible via GitHub Pages. Visit: [Portfolio Website](https://arijits21-iut.github.io/PortFolio/)  
 
 ## Contributions  
-This is a personal project, but suggestions and improvements are welcome. Feel free to fork the repository and raise a pull request.  
-
-## License  
-This project is open-source and available under the [MIT License](LICENSE).  
+This is a personal project, but suggestions and improvements are welcome. Feel free to fork the repository and raise a pull request.    
 
 ## Contact  
 For any questions or collaboration opportunities, feel free to reach out:  
