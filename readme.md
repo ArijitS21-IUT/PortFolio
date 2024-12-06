@@ -1,6 +1,6 @@
 Here’s a sample `README.md` file for your portfolio project:  
 
-```markdown
+
 # Personal Portfolio Website  
 
 This is my personal portfolio website designed to showcase my skills, education, projects, and other professional details. Built with modern web development technologies, the website serves as a central platform to highlight my expertise and achievements.  
@@ -56,7 +56,7 @@ For any questions or collaboration opportunities, feel free to reach out:
 - **Email:** [arijitsengupta1976@gmail.com](mailto:arijitsengupta1976@gmail.com)  
 - **LinkedIn:** [Arijit Sengupta](https://www.linkedin.com/in/arijit-sengupta-2278a1231/)  
 
----  
+ 
 Thank you for visiting my portfolio!  
-```  
+
 
