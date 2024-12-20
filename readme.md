@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your portfolio project:  
-
-
 # Personal Portfolio Website  
 
 This is my personal portfolio website designed to showcase my skills, education, projects, and other professional details. Built with modern web development technologies, the website serves as a central platform to highlight my expertise and achievements.  
